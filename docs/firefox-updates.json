@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "datev-approval-assistant@kalderaloop.github.io": {
+      "updates": [
+        {
+          "version": "0.2.3",
+          "update_link": "https://kalderaloop.github.io/RP-Updates/datev-approval-assistant-v0.2.3-firefox.xpi",
+          "update_hash": "sha256:09d1dba81f21b0891ca9384c08894134cf584d5ef38b75da9f332f2c869de533",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
